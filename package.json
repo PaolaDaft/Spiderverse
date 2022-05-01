@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./node_modules/.bin/jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PaolaDaft/spiderverse.git"
   },
-  "author": "",
+  "author": "@paola_daft",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PaolaDaft/spiderverse/issues"
